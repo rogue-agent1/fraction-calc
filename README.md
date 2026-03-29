@@ -1,13 +1,11 @@
 # fraction_calc
 
-Fraction calculator — exact arithmetic, simplify, convert
+fraction_calc - Exact fraction arithmetic with GCD simplification.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 fraction_calc.py --help
+python3 fraction_calc.py
 ```
-
-## License
-
-MIT
